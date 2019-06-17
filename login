@@ -1,1 +1,1 @@
-admin:lol2019
+admin
